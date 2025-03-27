@@ -59,10 +59,9 @@
 ---
 
 ## 📌 Profile Links
-- **LeetCode**: [Profile](#)  
-- **Codeforces**: [Profile](#)  
-- **CodeChef**: [Profile](#)  
-- **GeeksforGeeks**: [Profile](#)  
+- **LeetCode**: [Profile](https://leetcode.com/u/Subham-Coder-24/)  
+- **Codeforces**: [Profile](https://codeforces.com/profile/Subham-Coder-24)  
+- **GeeksforGeeks**: [Profile](https://www.geeksforgeeks.org/user/subhamswaruppradhan/)  
 
 ---
 
@@ -70,4 +69,4 @@
 🌟 _Always open to collaboration and new opportunities!_
 
 📫 **Let's connect!**  
-[LinkedIn](#) | [GitHub](#) | [Email](subhamswaruppradhan2580@gmail.com)
+[LinkedIn](https://www.linkedin.com/in/subham-swarup-pradhan-2a8890199/) | [GitHub](https://github.com/Subham-Coder-24/) | [Email](subhamswaruppradhan2580@gmail.com)
